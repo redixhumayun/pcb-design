@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Fitbot_Library")(type "KiCad")(uri "${KIPRJMOD}/Fitbot_Library.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/Users/zaidhumayun/Desktop/PCB Design/Libraries/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "downloaded-footprints")(type "KiCad")(uri "/Users/zaidhumayun/Desktop/PCB Design/Libraries/downloaded-footprints")(options "")(descr ""))
+)
